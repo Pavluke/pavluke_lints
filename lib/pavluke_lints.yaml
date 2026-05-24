@@ -222,7 +222,3 @@ linter:
     - use_test_throws_matchers
     - use_to_and_as_if_applicable
     - void_checks
-
-formatter:
-  page_width: 80
-  trailing_commas: preserve

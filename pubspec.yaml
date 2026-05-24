@@ -1,6 +1,6 @@
 name: pavluke_lints
 description: Lints.
-version: 1.2.0
+version: 1.2.1
 repository: https://github.com/pavluke/pavluke_lints
 
 environment:
